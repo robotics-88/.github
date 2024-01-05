@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Robotics88 is on a mission to improve the quality of life for all people, plants and animals with robotics.
+Robotics 88 is on a mission to improve the quality of life for all people, plants and animals with robotics.
 
 Our current project is UAVs for prescribed burn planning.
 
