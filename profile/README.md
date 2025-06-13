@@ -1,7 +1,17 @@
 ## Hi there 👋
 
-Robotics 88 is on a mission to improve the quality of life for all people, plants and animals with robotics.
+Robotics 88 has developed an open source flight stack as well as forestry and fire data analytics. Let us know how these work for you! 
 
-Currently, we are developing an autonomous UAV for prescribed burn planning through subcanopy vegetation mapping.
+Flight stack documentation is [here](https://robotics-88.github.io/open-drone-docs/) 🥳
 
-Check out our open-source [AirSim MAVROS wrapper](https://github.com/robotics88official/airsim-mavros-wrapper)!
+LiDAR analytics are [here](https://github.com/robotics-88/lidar4fire) 🔥
+
+Video analytics are (check back soon) 📷
+
+Huge thank you to support from:
+ - NOAA
+ - NSF
+ - MassRobotics
+ - RI STAC
+ - MassTech Collaborative
+ - Activate
