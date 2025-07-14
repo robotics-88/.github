@@ -4,7 +4,7 @@ Robotics 88 has developed an open source flight stack as well as forestry and fi
 
 Flight stack documentation is [here](https://robotics-88.github.io/open-drone-docs/) 🥳
 
-LiDAR analytics are [here](https://github.com/robotics-88/lidar4fire) 🔥
+LiDAR analytics are [here](https://github.com/robotics-88/open-goodfire-tools) 🔥
 
 Video analytics are (check back soon) 📷
 
